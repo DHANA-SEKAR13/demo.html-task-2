@@ -1,0 +1,19 @@
+1.DOCUMENT;
+
+Document Object Model, is a programming interface that represents structured documents like
+HTML and XML as a tree of objects.
+manipulate, and modify document elements using scripting languages.
+DOM stands for Document Object Model. It is a programming interface that allows us to create,
+change, or remove elements from the document. We can also add events to these elements to make our page more
+dynamic. The DOM views an HTML document as a tree of nodes. A node represents an HTML element.
+Let's take a look at this HTML code to better unders...
+
+2.WINDOW OBJECT;
+
+The Window object provides access to various properties and methods
+ that enable interaction with the browser environment, including manipulating the document, 
+ handling events, managing timers, displaying dialog boxes, and more.
+ The JavaScript window object represents the browser's window. In JavaScript,
+ a 'window' object is a global object. It contains the various methods and properties that we can 
+ use to access and manipulate the current browser window...
+
